@@ -19,4 +19,4 @@ Date: December 1st, 2021
 ------------------------
 ABOUT THIS PROJECT
 ------------------------
-This is a game inspired from the board game Clue.
+This is a game inspired from the board game Clue. It was written for my starting computing class at University of Colorado Boulder.
