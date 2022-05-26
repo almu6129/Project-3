@@ -21,4 +21,3 @@ ABOUT THIS PROJECT
 ------------------------
 This is a game inspired from the board game Clue. It was written for my starting computing class at University of Colorado Boulder.
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=gAe4yeVK20I&t=4s)
