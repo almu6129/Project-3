@@ -20,3 +20,5 @@ Date: December 1st, 2021
 ABOUT THIS PROJECT
 ------------------------
 This is a game inspired from the board game Clue.
+
+[![Description Video](Screen Shot 2022-05-26 at 12.04.54.png)](https://www.youtube.com/watch?v=gAe4yeVK20I&t=4s "SC2 Mini game - Click to Watch!")
