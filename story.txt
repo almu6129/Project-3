@@ -1,0 +1,25 @@
+Hello,
+
+    There has been a murder in the Billings Estate. Mrs. Jane Billings was killed around 6 hours ago during a dinner party at the mansion. 
+The only suspects are the 6 dinner guests.    
+
+    If you are reading this, you have been tasked with solving the murder. The police have been attempting to solve the crime with no success.
+They decided to call you in because of your nationally known ability for solving homicides. Make sure to watch your back, the murderer is still 
+on the loose.
+
+    You will navigate the map using your w,a,s,d keys. The suspects are represented by "0"s on the map and the rooms by letters according to the first
+character in their names. You can interact with them by approaching them. 
+
+Solve the mystery before you are killed by the murderer. He is hunting you and everytime you move there is a chance you will be attacked.
+
+    After you investigate the rooms, suspects, and weapons that you wish to you can go to the middle of the map where there is a pool room. In the
+pool room the police are set up and you can present your accussation to them. If you get it right you will win and if you are wrong, you can continue
+to investigate, coming back at any time.
+
+    Each suspect is holding a weapon that could potentially be the one used to murder Mrs. Billings. The Suspect may or may not be holding the murder weapon.
+Just because one is holding the murder weapon doesn't mean that they are the murderer and vice versa.
+
+Good luck on solving the case!
+
+
+ 

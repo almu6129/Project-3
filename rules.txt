@@ -1,0 +1,34 @@
+Hello, these are the instructions for the game of clue. Clue is a game where
+one person attempts to solve a murder that has occured hours before. The police
+have narrowed down the suspects to a group of 6 dinner guests. You must navigate
+a mansion in an attempt to determine which one of these people is in fact the 
+killer. You will be able to choose your abilities once you begin the game.
+
+Abilies:
+    Stamina: You will be able to move faster and be less likely to get attacked.
+    Intuition: You will learn more when investigating rooms and suspect items.
+    Personability: You will be able to glean more from the dinner guests when 
+    talking with them.
+    Hardiness: Will take less damage when attacked.
+    Quick Recovery: Health will recover after less rounds.
+
+Once you choose to begin the game you will be able to pick which of these skills
+you would like to upgrade. When starting these are all at level zero, but you will
+be awarded 6 points to upgrade these at the begining. 
+
+    You will navigate the map using your w,a,s,d keys. The suspects are represented by "0"s on the map and the rooms by letters according to the first
+character in their names. You can interact with them by approaching them. 
+
+    After you investigate the rooms, suspects, and weapons that you wish to you can go to the middle of the map where there is a pool room. In the
+pool room the police are set up and you can present your accussation to them. If you get it right you will win and if you are wrong, you can continue
+to investigate, coming back at any time.
+
+    Each suspect is holding a weapon that could potentially be the one used to murder Mrs. Billings. The Suspect may or may not be holding the murder weapon.
+Just because one is holding the murder weapon doesn't mean that they are the murderer and vice versa.
+
+At multiple points during the game you will could be attacked from behind. The 
+killer is still on the loose and is trying to take out any threat to his freedom.
+Your health will be diminished by these attacks but will recover after a couple 
+rounds. If your health reaches zero you die and you can choose to start the game
+over from the beggining.
+
