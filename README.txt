@@ -21,4 +21,4 @@ ABOUT THIS PROJECT
 ------------------------
 This is a game inspired from the board game Clue.
 
-[![Description Video](doc/Screen_shot.png)](https://www.youtube.com/watch?v=gAe4yeVK20I&t=4s "SC2 Mini game - Click to Watch!")
+[![Video](https://img.youtube.com/vi/gAe4yeVK20I/maxresdefault.jpg)](https://www.youtube.com/watch?v=gAe4yeVK20I)
