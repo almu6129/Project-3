@@ -21,4 +21,4 @@ ABOUT THIS PROJECT
 ------------------------
 This is a game inspired from the board game Clue.
 
-[![Video](https://img.youtube.com/vi/gAe4yeVK20I/maxresdefault.jpg)](https://www.youtube.com/watch?v=gAe4yeVK20I)
+YouTube Project Video: https://www.youtube.com/watch?v=gAe4yeVK20I
